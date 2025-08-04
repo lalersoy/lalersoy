@@ -1,7 +1,3 @@
-## Hi and welcome!! 
-
-Below is an overview of the projects I have completed during my studies and professional life. 
-
 | Project Name | Tech | Tools | Description | Link |
 |:-------------|:------|:-------|:-------------|:------|
 | **Customer Journey & Conversion Dashboard** | **BigQuery**, **Looker Studio**, **SQL** | GA360 Sample Dataset, Google Cloud | An interactive dashboard built using **custom BigQuery SQL queries** on the Google Analytics 360 public dataset. Includes both an executive KPI overview and a full funnel analysis by device type. See the full breakdown in the [README](https://github.com/lalersoy/kpi-metrics-dashboard#readme). | [Looker Dashboard](https://lookerstudio.google.com/reporting/5ba94044-8343-40f2-bf4c-c7770eab143d) |
